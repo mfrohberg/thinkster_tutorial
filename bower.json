@@ -1,0 +1,21 @@
+{
+  "name": "flapper-news",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Frohberg <mfrohberg@2u.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.2",
+    "angular-ui-router": "~0.2.11",
+    "bootstrap": "~3.3.1"
+  }
+}
